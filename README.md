@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on A full stack website based on Epsilon programm from GTA V. It includes memberships, admin dashboards and many more exciting features.<br>🌱 I’m currently learning Next JS.<br>👯 I’m looking to collaborate on MERN Stack projects.<br>💬 Ask me about Web Development.<br> 📫 How to reach me: mihirkotecha28@gmail.com.<br>⚡ Fun fact: I love football and fiction.<br>
+<!--🔭 I’m currently working on A full stack website based on Epsilon programm from GTA V. It includes memberships, admin dashboards and many more exciting features.-->
+<br>🌱 I’m currently learning Next JS.<br>👯 I’m looking to collaborate on MERN Stack projects.<br>💬 Ask me about Web Development.<br> 📫 How to reach me: mihirkotecha28@gmail.com.<br>⚡ Fun fact: I love football and fiction.<br>
 
 
 ## 🌐 Socials:
